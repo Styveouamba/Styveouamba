@@ -1,5 +1,4 @@
 # 👋 Salut, moi c'est Styve
-
 ## 🔥 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
@@ -18,6 +17,9 @@
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Styveouamba&layout=compact&theme=tokyonight)
 ---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Styveouamba&theme=tokyo-night)
+
 
 ## 📫 Me contacter
 - Email : styveouamba@gmail.com
