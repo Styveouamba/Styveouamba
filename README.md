@@ -14,7 +14,6 @@
 ---
 
 ## 📊 Mes Stats GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=Styveouamba&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Styveouamba&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Styveouamba&theme=tokyonight)
 
