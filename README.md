@@ -1,17 +1,5 @@
 # 👋 Salut, moi c'est Styve
 
-💻 Développeur Fullstack  
-🚀 Freelance en devenir  
-
----
-
-## 🔥 Skills
-- JavaScript / TypeScript
-- React / React Native
-- Node.js
-  
-
----
 
 ## 📊 Mes Stats GitHub
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Styveouamba&show_icons=true&theme=tokyonight)
