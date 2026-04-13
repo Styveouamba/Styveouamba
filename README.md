@@ -14,13 +14,11 @@
 ---
 
 ## 📊 Mes Stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Styveouamba&show_icons=true&theme=tokyonight&cache_seconds=60)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Styveouamba&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Styveouamba&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Styveouamba&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Styveouamba&layout=compact&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Styveouamba&layout=compact&theme=tokyonight)
 ---
 
 ## 📫 Me contacter
